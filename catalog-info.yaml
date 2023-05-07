@@ -20,6 +20,6 @@ metadata:
     backstage.io/kubernetes-id: salaboy-asare
     backstage.io/kubernetes-namespace: dapr
 spec:
-  type: library
+  type: service
   owner: CNCF
   lifecycle: experimental
