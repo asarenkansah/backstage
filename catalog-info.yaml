@@ -18,7 +18,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
     backstage.io/kubernetes-id: salaboy-asare
-    backstage.io/kubernetes-namespace: default
 spec:
   type: service
   owner: CNCF
